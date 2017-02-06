@@ -3,6 +3,7 @@
     padding: 0;
     list-style: none;
     box-sizing: border-box;
+    font-family: "宋体";
 }
 
 button {
@@ -93,10 +94,11 @@ main {
     position: absolute;
     color: #FFF;
     height: 145px;
+    margin-left: -40px;
     line-height: 145px;
     font-size: 40px;
     font-weight: bold;
-    margin-left: -40px;
+    font-family: "微软雅黑";
 }
 
 .row li {
